@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Sathwara</h1>
-<h3 align="center">Fronted Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 - 📫 How to reach me **shreyansh1254@gmail.com**
 
